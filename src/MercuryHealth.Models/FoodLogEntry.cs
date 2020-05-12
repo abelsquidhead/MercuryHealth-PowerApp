@@ -40,8 +40,7 @@ namespace MercuryHealth.Models
         [DisplayName("Sodium/g")]
         public decimal SodiumInGrams { get; set; }
 
-        [DisplayName("Color")]
-        public string Color { get; set; }
+
 
 
     }
